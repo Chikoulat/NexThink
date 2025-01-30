@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/images/solution.png",
+    "title": "Solutions logicielles sur mesure",
+    "description": "Nous nous spécialisons dans la création de solutions logicielles sur mesure qui répondent aux besoins spécifiques de chaque client. Notre équipe d'experts travaille en étroite collaboration avec vous pour comprendre vos exigences uniques et développer des applications qui optimisent vos processus métier. Que ce soit pour des applications web, mobiles ou de bureau, nous utilisons les dernières technologies pour garantir des performances optimales et une expérience utilisateur exceptionnelle."
+  },
+  {
+    "id": 2,
+    "image": "/images/service.png",
+    "title": "Un service premium",
+    "description": "Nous offrons une gamme complète de services, y compris le développement de logiciels, la cybersécurité et le support technique. Notre équipe d'experts est prête à vous accompagner à chaque étape de votre transformation numérique."
+  },
+  {
+    "id": 3,
+    "image": "/images/security.png",
+    "title": "Cybersécurité avancée",
+    "description": "Nous fournissons des solutions de cybersécurité avancées pour protéger vos systèmes et données contre les menaces en ligne. Nos experts en sécurité travaillent sans relâche pour identifier et neutraliser les vulnérabilités, assurant ainsi la continuité de vos opérations et la protection de vos informations sensibles."
+  },
+  {
+    "id": 4,
+    "image": "/images/support.png",
+    "title": "Support technique dédié",
+    "description": "Notre service de support technique dédié est disponible 24/7 pour résoudre rapidement et efficacement tous vos problèmes informatiques. Que ce soit pour des pannes de système, des problèmes de réseau ou des questions logicielles, notre équipe est là pour vous fournir l'assistance nécessaire et minimiser les interruptions de votre activité."
+  }
+]
