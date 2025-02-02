@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react';
-import projects from '../data/projects.json';
+import projects from '../../public/Data/projects.json';
 import DesktopProjects from './projects/DesktopProjects';
 import MobileProjects from './projects/MobileProjects';
 

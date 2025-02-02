@@ -1,7 +1,7 @@
 import React from 'react';
 import DesktopAbout from './about/DesktopAbout';
 import MobileAbout from './about/MobileAbout';
-import cards from '../data/about.json';
+import cards from '../../public/Data/about.json';
 
 export default function About() {
   return (
