@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Disallow: /temp/
 
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://nex-think.vercel.app/sitemap.xml
