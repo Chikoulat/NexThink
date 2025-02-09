@@ -14,13 +14,13 @@ export default function DesktopNavbar({
 }) {
   return (
     <header
-      className={`navbarMobile hiddenDesktop xl:navbar px-5 py-2 fixed w-full transition-colors duration-300 ${scroll ? 'bg-white text-primary z-50' : 'bg-transparent text-white'}`}
+      className={`navbarMobile hiddenDesktop navbar px-5 py-2 fixed w-full transition-colors duration-300 ${scroll ? 'bg-white text-primary z-50' : 'bg-transparent text-white'} 3xl:w-[70%] 3xl:mx-auto`}
     >
       <a href="#home" onClick={(e) => handleScrollToSectionAction(e, 'home')}>
         {scroll ? (
-          <Image src={logoBlue} alt="logo" width={100} height={100}/>
+          <Image src={logoBlue} alt="logo" width={60} height={60}/>
         ) : (
-          <Image src={logoWhite} alt="logo" width={100} height={100}/>
+          <Image src={logoWhite} alt="logo" width={60} height={60}/>
         )}
       </a>
       <ul className="flex items-center gap-10">

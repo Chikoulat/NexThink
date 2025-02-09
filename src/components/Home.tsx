@@ -19,7 +19,7 @@ function Home() {
       id="home"
       className="bg-bgHome bg-no-repeat bg-left bg-contain xl:flex flex-col items-end"
     >
-      <div className="text-white p-5 pt-20 xl:px-20 xl:py-40 xl:w-1/2 ">
+      <div className="text-white p-5 pt-20 xl:px-20 xl:py-40 xl:w-1/2">
         <h2 className="text-lg xl:text-2xl 3xl:text-3xl">
           NexThink - Votre solution informatique innovante
         </h2>
